@@ -135,9 +135,6 @@ I specialize in Laravel, Node.js, Vue.js, Redis, Docker, Socket.io, and API-driv
 - [vue-hijri-picker](https://github.com/firaskanaan93/vue-hijri-picker): Vue 3 date picker component supporting Hijri and Gregorian calendars.
 - [codex-mobile-bridge](https://github.com/firaskanaan93/codex-mobile-bridge): Mobile-first bridge for browsing local Codex threads and sending messages back to Codex Desktop.
 
-### GitHub Contribution Activity
-
-![GitHub Contributions](https://ghchart.rshah.org/firaskanaan93)
 
 ### Profile Visits
 
