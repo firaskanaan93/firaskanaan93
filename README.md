@@ -1,52 +1,151 @@
-# Firas Kanaan
+[![Social banner for Firas](https://github.com/firaskanaan93/firaskanaan93/blob/main/assets/header.svg)](https://www.linkedin.com/in/firaskanaan1/)
 
-Senior Full Stack Developer focused on scalable web applications, real-time systems, SaaS platforms, and API-driven products.
+## Hi, I'm Firas
 
-I work across backend, frontend, infrastructure, and integrations, with a strong focus on shipping reliable products from idea to production.
+I'm a Senior Full Stack Developer with more than 7 years of experience building scalable web applications, SaaS platforms, real-time systems, APIs, dashboards, and production infrastructure.
 
-## Current Focus
+I specialize in Laravel, Node.js, Vue.js, Redis, Docker, Socket.io, and API-driven product development. My work usually covers the full delivery path: architecture, backend, frontend, integrations, deployment, CI/CD, monitoring, and long-term maintenance.
 
-- Building multi-tenant marketing automation SaaS for social, WhatsApp, email, and SMS campaigns.
-- Developing integrations with Meta Graph API, TikTok Business API, Snapchat Marketing API, OAuth 2.0, webhooks, and analytics pipelines.
-- Designing tenant-safe systems with RBAC, queues, usage metering, billing boundaries, retries, and monitoring.
+### Professional Experience
 
-## Engineering Strengths
+#### String (Jan 2025 - Present)
 
-- Full-stack product development with Laravel, Node.js, TypeScript, Vue.js, and Nuxt.
-- Real-time applications with Socket.io, Redis, event-driven workflows, and queue-based processing.
-- API design, third-party integrations, authentication, authorization, and secure multi-tenant architecture.
-- Deployment, CI/CD, Docker environments, server setup, and production troubleshooting.
-- Leading projects from requirements and architecture through launch, maintenance, and iteration.
+- **Senior Software Engineer**
+  - Built multi-tenant marketing automation SaaS for omnichannel campaigns.
+  - Implemented integrations with Meta Graph API, TikTok Business API, and Snapchat Marketing API.
+  - Worked on OAuth 2.0, token rotation, rate limits, signed webhooks, scheduled publishing, and analytics.
+  - Delivered tenant isolation, RBAC, tenant-aware queues, usage metering, billing boundaries, retries, DLQ, and monitoring.
+  - Stack: Laravel, Node.js, TypeScript, Vue.js, Redis, MySQL, PostgreSQL, Docker, CI/CD.
 
-## Selected Work
+#### Dar Auction (Sep 2022 - Jan 2025)
 
-- Built and scaled marketing automation workflows for omnichannel campaign management.
-- Developed a real-time auction platform with live bidding, API services, Vue.js frontend, deployment pipelines, and Dockerized environments.
-- Refactored and upgraded legacy Laravel applications, including major framework version migrations and storage migration to S3.
-- Built e-commerce, ERP, reporting, dashboard, and mobile-connected systems across multiple industries.
-- Trained computer engineering students in Java, mobile development, Laravel, and web design.
+- **Senior Software Engineer**
+  - Developed and maintained secure, scalable Laravel APIs.
+  - Built a real-time auction application using Socket.io for live bidding updates.
+  - Led Vue.js frontend development with designers and stakeholders.
+  - Managed server setup, deployment, CI/CD pipelines, and Docker environments.
+  - Helped launch the platform from initial development to production.
 
-## Tech Stack
+#### Stallion AI (Feb 2021 - Sep 2022)
 
-![PHP](https://img.shields.io/badge/PHP-36454F?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-36454F?style=flat&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-36454F?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-36454F?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-36454F?style=flat&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-36454F?style=flat&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-36454F?style=flat&logo=nuxt&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-36454F?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-36454F?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-36454F?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-36454F?style=flat&logo=docker&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-36454F?style=flat&logo=socketdotio&logoColor=white)
+- **Senior Software Engineer**
+  - Developed applications related to artificial intelligence.
+  - Refactored and upgraded Laravel applications from Laravel 5.7 to Laravel 8.
+  - Migrated storage from local filesystem to Amazon S3.
+  - Recognized as Hero of the Month in May 2021.
 
-## Public Projects
+#### Grow Up! (Dec 2020 - Feb 2021)
+
+- **Full Stack Developer**
+  - Built an e-commerce system from scratch through a freelance contract.
+
+#### 404Developers (Jan 2018 - Jan 2021)
+
+- **Senior Software Engineer**
+  - Built full-stack web and mobile applications.
+  - Created APIs, dashboards, reports, charts, filters, and admin tools.
+  - Managed complex projects from planning and coordination through implementation.
+  - Produced functional and technical application documentation.
+
+#### Sanaya (Sep 2017 - Nov 2020)
+
+- **Training Specialist**
+  - Trained computer engineering students.
+  - Delivered workshops and courses in Java, mobile application programming, Laravel, and web design.
+
+#### Blue Ray Store (Sep 2014 - Nov 2017)
+
+- **Software Engineer**
+  - Programmed fire protection systems and automation systems.
+  - Designed private networks for clients.
+
+### Education
+
+- Bachelor's Degree, Computer Engineering, Ebla Private University.
+- Technological Institute of Computer Engineering, Networking Section, University of Aleppo.
+
+### Licenses & Certifications
+
+- AWS Fundamentals: Going Cloud-Native - Coursera.
+- Node, Express, Angular 12 & MySQL Full Stack Web Development - Udemy.
+- Angular 12 Complete Beginner's Guide - Udemy.
+- Web Design - New Horizons Computer Learning Centers.
+- Advanced Programming Using C# & SQL - CPC.
+- Android Application Programming - CPC.
+- C++, Java, SQL, PHP, C#, and HTML Fundamentals - Sololearn.
+
+### Skills
+
+#### Backend Development
+
+- Laravel
+- PHP
+- Node.js
+- TypeScript
+- RESTful API design
+- OAuth 2.0
+- Webhooks
+- Multi-tenant architecture
+- Queue-based processing
+- Socket.io
+- Redis
+
+#### Frontend Development
+
+- Vue.js
+- Nuxt
+- JavaScript
+- TypeScript
+- HTML/CSS
+- Dashboard development
+- Frontend-backend integration
+- Real-time user interfaces
+
+#### Databases
+
+- MySQL
+- PostgreSQL
+- Redis
+- Data modeling
+- Query optimization
+- Reporting and analytics
+
+#### DevOps & Infrastructure
+
+- Docker
+- CI/CD
+- Linux server administration
+- Deployment automation
+- Monitoring and alerts
+- Amazon S3
+- Production troubleshooting
+
+#### Product & Engineering Practices
+
+- SaaS architecture
+- Agile development
+- Technical documentation
+- Project leadership
+- System debugging
+- Code refactoring
+- Legacy application upgrades
+
+### Public Projects
 
 - [vue-hijri-picker](https://github.com/firaskanaan93/vue-hijri-picker): Vue 3 date picker component supporting Hijri and Gregorian calendars.
 - [codex-mobile-bridge](https://github.com/firaskanaan93/codex-mobile-bridge): Mobile-first bridge for browsing local Codex threads and sending messages back to Codex Desktop.
 
-## Connect
+### GitHub Contribution Activity
 
-- LinkedIn: [linkedin.com/in/firaskanaan1](https://linkedin.com/in/firaskanaan1)
+![GitHub Contributions](https://ghchart.rshah.org/firaskanaan93)
+
+### Profile Visits
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=firaskanaan93" alt="Firas Kanaan profile visits" />
+</p>
+
+### Let's Connect
+
+- LinkedIn: [linkedin.com/in/firaskanaan1](https://www.linkedin.com/in/firaskanaan1/)
 - Email: [firaskanaan93@gmail.com](mailto:firaskanaan93@gmail.com)
