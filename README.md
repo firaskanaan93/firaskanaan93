@@ -2,7 +2,7 @@
 
 ## Hi, I'm Firas
 
-I'm a Senior Full Stack Developer with more than 7 years of experience building scalable web applications, SaaS platforms, real-time systems, APIs, dashboards, and production infrastructure.
+I'm a Senior Full Stack Developer with more than 10 years of experience building scalable web applications, SaaS platforms, real-time systems, APIs, dashboards, and production infrastructure.
 
 I specialize in Laravel, Node.js, Vue.js, Redis, Docker, Socket.io, and API-driven product development. My work usually covers the full delivery path: architecture, backend, frontend, integrations, deployment, CI/CD, monitoring, and long-term maintenance.
 
